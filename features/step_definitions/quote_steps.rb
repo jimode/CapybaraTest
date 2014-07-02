@@ -14,4 +14,7 @@ Then(/^I should be taken to another window displaying "(.*?)"$/) do |arg1|
   		new_window = window
   	end
   end
+
+  page.has_css?('a.nav1')
+  
 end
