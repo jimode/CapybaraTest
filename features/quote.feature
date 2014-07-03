@@ -1,4 +1,4 @@
-Feature: Quote
+Feature: Initiate Quote
 
 Scenario: Get a BMW Car Insurance quote
 	Given I am on the BMW Car Insurance home page
